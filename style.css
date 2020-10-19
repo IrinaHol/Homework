@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+}
+
+.box {
+    background-color: black;
+    width: 940px;
+    height: 600px;
+}
+.main {
+    margin: 10px;
+}
+.box__orange1{
+    background-color: orange;
+    width: 920px;
+    height: 100px;
+    clear: both;
+}
+.box__red {
+    width: 190px;
+    height: 400px;
+    background-color: red;
+    float: left;
+}
+.box__green {
+    width: 260px;
+    height: 400px;
+    background-color:green;
+    float: left;
+}
+.box__blue {
+    width: 260px;
+    height: 400px;
+    background-color:blue;
+    float: left;
+}
+.box__black {
+    width: 200px;
+    height: 400px;
+    background-color:black;
+    float: left;
+}
+.box__orange2{
+    background-color: orange;
+    width: 920px;
+    height: 90px;
+    clear: both;
+}
